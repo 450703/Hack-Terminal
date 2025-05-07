@@ -4,7 +4,19 @@
 
 一个基于 PyQt5 开发的黑客模拟终端程序，提供模拟网络攻防环境的视觉化界面。本程序仅供网络安全教育和研究使用，不提供实际的入侵功能。
 
+## 界面展示
+
+### 主界面
 ![主界面截图](screenshots/main.png)
+
+### 网络扫描器
+![网络扫描器截图](screenshots/scanner.png)
+
+### 系统入侵界面
+![系统入侵界面截图](screenshots/breach.png)
+
+### 网络威胁地图
+![网络威胁地图截图](screenshots/threat_map.png)
 
 ## 功能特点
 

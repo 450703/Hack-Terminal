@@ -4,7 +4,19 @@
 
 A hacker simulation terminal program developed based on PyQt5, providing a visualized interface for simulating network attack and defense environments. This program is for network security education and research purposes only and does not provide actual intrusion functionality.
 
+## Interface Screenshots
+
+### Main Interface
 ![Main Interface Screenshot](screenshots/main.png)
+
+### Network Scanner
+![Network Scanner Screenshot](screenshots/scanner.png)
+
+### System Intrusion Interface
+![System Intrusion Screenshot](screenshots/breach.png)
+
+### Network Threat Map
+![Network Threat Map Screenshot](screenshots/threat_map.png)
 
 ## Features
 
